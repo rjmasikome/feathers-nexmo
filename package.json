@@ -1,0 +1,27 @@
+{
+  "name": "feathers-nexmo",
+  "version": "0.0.4",
+  "description": "Nexmo plugin for feathers.js",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rjmasikome/feathers-nexmo.git"
+  },
+  "keywords": [
+    "feathers",
+    "nexmo",
+    "sms"
+  ],
+  "author": "RJ Masikome",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rjmasikome/feathers-nexmo/issues"
+  },
+  "homepage": "https://github.com/rjmasikome/feathers-nexmo#readme",
+  "dependencies": {
+    "request": "^2.81.0"
+  }
+}
